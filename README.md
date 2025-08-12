@@ -3,6 +3,11 @@
 An AI-powered **Email Sorting Agent** that processes incoming emails, classifies them as **spam** or **legitimate**, and drafts professional responses for legitimate messages.  
 Built using **LangGraph**, **LangChain**, and **Groq LLaMA 3** models, with **Langfuse** integration for full traceability and debugging.
 
+
+
+<img width="433" height="694" alt="image" src="https://github.com/user-attachments/assets/3ca7343f-66aa-429d-877d-be72055502b0" />
+
+
 ---
 
 ## 🚀 Features
